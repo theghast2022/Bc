@@ -72,4 +72,4 @@ return;
 
 
 
-client.login("NTA4MDY2MjA3MzY3NDMwMTYz.Dr52sQ.Qgt-a_rFUDK-0Nr0qrwo6CysnMg");
+client.login(process.env.BOT_TOKEN);
